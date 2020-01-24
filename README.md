@@ -7,6 +7,8 @@ This small board connects to the bottom of STM32 Nucleo-64 boards trough STM Mor
 
  ![DFU SOCK BOARD](https://github.com/zmech/nucleo64-dfu-sock/blob/master/dfu-sock%20board.jpg)
  
+ ![sock_is_on](https://github.com/zmech/nucleo64-dfu-sock/blob/master/sock_is_on.jpg)
+ 
 So fits like a sock. Board has microUSB, SD card socket and SPI flash memory chip. Clip the board to
 any Nucleo64 board download corresponding DFU file and you have fully functional MicroPython board.
 
