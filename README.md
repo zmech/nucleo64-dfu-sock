@@ -14,4 +14,4 @@ I made definitions for [NucleoF401RE](https://github.com/zmech/NUCLEO_F401RE_DFU
 
 I have tested as well different spi memory chips. Adesto and Winbond from 8 Mbit to 128 Mbit work fine. 
 
-Order the board [here](https://easyeda.com/azhirov/nucleo64-v2-0)
+Order the pcb [here](https://easyeda.com/azhirov/nucleo64-v2-0)
